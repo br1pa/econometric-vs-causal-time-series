@@ -13,8 +13,6 @@ The paper studies four econometric methods and eleven causal structure-learning 
 
 ## Expected outputs
 
-The pipeline writes:
-
 - DOT graph files for LASSO, LAR, James-Stein, and SIMONE
 - the VAR lag-selection plot
 - pairwise SHD comparison figure
@@ -22,6 +20,6 @@ The pipeline writes:
 
 ## Package dependencies
 
-The original scripts call or rely on:
+The scripts call or rely on:
 
 `readxl`, `imputeTS`, `dplyr`, `vars`, `moments`, `tseries`, `lmtest`, `fGarch`, `lars`, `bnlearn`, `GeneNet`, `simone`, `parallel`, `igraph`, `ggplot2`, `causaleffect`, `tidyr` and `tibble`.
