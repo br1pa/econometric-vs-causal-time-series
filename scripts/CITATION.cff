@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+title: "Econometric vs. Causal Structure-Learning for Time-Series Policy Decisions: Evidence from the UK COVID-19 Policies"
+message: "If you use this repository, please cite the accompanying paper listed below."
+type: software
+authors:
+  - family-names: "Petrungaro"
+    given-names: "Bruno"
+  - family-names: "Constantinou"
+    given-names: "Anthony C."
+keywords:
+  - causal structure learning
+  - time series
+  - Bayesian networks
+  - COVID-19
+  - econometrics
+  - model averaging
+repository-code: "https://github.com/br1pa/econometric-vs-causal-time-series/"
+abstract: >
+  Code and data associated with the paper on econometric versus causal structure-learning methods for UK COVID-19 policy data.
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Petrungaro"
+      given-names: "Bruno"
+    - family-names: "Constantinou"
+      given-names: "Anthony C."
+  title: "Econometric vs. Causal Structure-Learning for Time-Series Policy Decisions: Evidence from the UK COVID-19 Policies"
+  journal: "arXiv"
+  year: 2026
+  date-published: 2026-02-09
+  status: preprint
+  doi: "10.48550/arXiv.2603.00041"
+  identifiers:
+    - type: other
+      value: "arXiv:2603.00041"
+      description: "arXiv identifier for the preprint"
+  url: "https://arxiv.org/abs/2603.00041"
