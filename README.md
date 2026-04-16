@@ -9,7 +9,8 @@ The paper studies four econometric methods and eleven causal structure-learning 
 ## What is in this repo
 
 - `data/raw/` – raw Excel input file
-- `scripts/` – original uploaded scripts, preserved as-is
+- `docs/` – codebook and reproducibility notes
+- `scripts/` – original uploaded scripts
 
 ## Expected outputs
 
